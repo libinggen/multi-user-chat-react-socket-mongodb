@@ -1,0 +1,23 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "1. First commit within 1h. 2. Focus on basic functions first. 3. Work done after 1h is strong plus. 4. Back-end can be REST or Websockets based. 5. Front-end React. 6. Logon can be just username.  7. Password authentication is optional.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cra-template": "1.2.0",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "socket.io": "^4.7.4",
+    "socket.io-client": "^4.7.4"
+  }
+}
